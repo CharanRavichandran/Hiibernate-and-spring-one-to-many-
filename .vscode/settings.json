@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "window.zoomLevel": 0,
+"terminal.integrated.shell.windows": "cmd.exe",
+"terminal.integrated.shellArgs.windows":
+["/k", "C:\\Program Files\\nodejs\\nodevars.bat"],
+"java.home": "C:\\Program Files\\Java\\jdk1.8.0_131\\"
+}
